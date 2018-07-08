@@ -2,6 +2,8 @@
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
+To view what I've done so far, click [here](https://kotamichael.github.io/ReduxSimpleStart/)!
+
 ### Getting Started
 
 There are two methods for getting started with this repo.
